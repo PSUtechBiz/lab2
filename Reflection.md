@@ -1,9 +1,7 @@
 # My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
+
+For this week's lab I decided to add a course description to the Readme file. This was a learning experience for me (even though we did it in class last Wednesday) because I forgot some of the paths to take. In my video I walk through the steps I took to edit the file. As the semester goes on I hope to become more comfortable recording myself.
+
+*Screencast submission* - [IST402 Lab 2 How to to Edit a file and Create a Pull Request in Github](https://www.youtube.com/watch?v=qmoxsRUVT0Y&feature=youtu.be)
 ```
 
-Good luck!
